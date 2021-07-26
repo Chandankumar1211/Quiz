@@ -1,0 +1,52 @@
+.hearder {
+  position: fixed;
+  width: 100%;
+  z-index: 888;
+  top: 0;
+  left: 0;
+  background-color: #305f7a;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+  transition: left 0.3s ease-in-out;
+  padding: 1em;
+}
+.header-bar {
+  color: #fff;
+  font-weight: 500;
+  text-align: center;
+}
+
+.float-rt {
+  float: right;
+}
+
+.container {
+  margin-top: 4.7em;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.ft-wt-500 {
+  font-weight: 500;
+}
+
+.ques-cont {
+  padding-top: 2em;
+}
+
+.pd-1 {
+  padding: 1em;
+}
+
+.ml-2 {
+  margin-left: 0.5em;
+}
+
+.border-1 {
+  border: 1px solid #c1bbbb;
+}
+
+.red-text {
+  color: red;
+}
